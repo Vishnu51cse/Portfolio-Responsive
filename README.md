@@ -4,14 +4,14 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 
 
-## Features
+Features
 
 - **Home Page**: Displays a brief introduction and profile information.
 - **About Page**: Contains details about education, skills, and interests.
 - **Projects Page**: Showcases a list of projects with descriptions and links to GitHub repositories.
 - **Contact Page**: Provides contact details with links to social profiles.
 
-## Technologies
+Technologies
 
 - **React**: JavaScript library for building user interfaces.
 - **React Router**: For routing and navigation.
@@ -19,7 +19,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - **FontAwesome**: Icon library for social media and other icons.
 - **Google Fonts**: For custom fonts (Playfair Display).
 
-.
+
 
 
 
