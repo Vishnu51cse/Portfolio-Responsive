@@ -16,7 +16,8 @@ const projects = [
         name: "Smart Grade Convertor using Html,Css,Js",
         description:"Efficiently convert your marks to grades.",
         githubUrl:"https://github.com/Vishnu51cse/Web"
-    },{
+    },
+    {
         name: "Simple Todo App using ReactJs",
         description:"Simple App to mark your tasks",
         githubUrl:"https://github.com/Vishnu51cse/todo"
