@@ -8,8 +8,7 @@ const Home = () => {
             <div className="profile-text">
                 <h2>Vishnu Prasad S</h2>
                 <p>
-                    Student currently pursuing B.E. in Computer Science Engineering. A good eager learner with time-bound
-                    skills and a work ethic looking for an entry-level position.
+                    A motivated and enthusiastic fresher with a strong foundation in software development, particularly in Java, JavaScript, and the MERN stack. Passionate about solving problems and learning new technologies. Proficient in building web applications and developing efficient code. Seeking a challenging role as a software developer to contribute to innovative projects and grow professionally.
                 </p>
             </div>
         </div>
