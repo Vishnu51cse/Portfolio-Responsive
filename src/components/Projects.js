@@ -8,14 +8,19 @@ const projects = [
         githubUrl: "https://github.com/Vishnu51cse/Resort_Backend"
     },
     {
-        name: "Django Login and Signup Authentication",
-        description: "Implemented authentication mechanisms using Django framework.",
-        githubUrl: "https://github.com/Vishnu51cse/Django_Authentication"
+        name: "Simple Contact Management Using Mern Stack",
+        description: "Simple App to note down the contacts.",
+        githubUrl: "https://github.com/Vishnu51cse/simplecontact"
     },
     {
         name: "Smart Grade Convertor using Html,Css,Js",
         description:"Efficiently convert your marks to grades.",
         githubUrl:"https://github.com/Vishnu51cse/Web"
+    },{
+        name: "Simple Todo App using ReactJs",
+        description:"Simple App to mark your tasks",
+        githubUrl:"https://github.com/Vishnu51cse/todo"
+        
     }
 
 ];
