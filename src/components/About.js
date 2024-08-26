@@ -31,9 +31,9 @@ const About = () => {
                     <h3>Skills and Interests</h3>
                     <ul>
                         <li>Soft Skills: Adaptability, Time Management, Team Work</li>
-                        <li>Technical Skills: Python, SQL, Java,Html,Css,JavaScript</li>
-                        <li>Frameworks: Django,Boostrap</li>
-                        <li>Tools: Postman API,Git,GitHub</li>
+                        <li>Technical Skills: Python, SQL, Java,Html,Css,JavaScript,React Js,Node Js,Express Js,Mongo Db</li>
+                        <li>Frameworks: React Js,Boostrap</li>
+                        <li>Tools: Postman API,Git,GitHub,MySQL Workbench</li>
                         <li>Areas of Interest: Data Structures, Web Development</li>
                     </ul>
                 </Col>
